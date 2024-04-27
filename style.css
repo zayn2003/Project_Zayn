@@ -5,6 +5,10 @@
 .bgs{
   background-color: #e6e6e6;
 }
+.box {
+  background: linear-gradient(165deg, rgb(0, 166, 255) 8%, #e6e6e6 15%);
+  border-radius: 4px;
+}
 
 .oswald {
   font-family: "Oswald", sans-serif;
