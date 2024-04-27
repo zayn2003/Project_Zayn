@@ -1,0 +1,35 @@
+.bg{
+  background-color: #f1f1f3 ;
+}
+
+.bgs{
+  background-color: #e6e6e6;
+}
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.cap{
+  text-transform: uppercase;
+}
+
+.hr-pad{
+  width: 30px;
+  height: 4px;
+  background-color: rgb(0, 166, 255);
+  display: inline-block;
+  position: relative;
+  bottom: 2.1rem;
+}
+
+.heading-color{
+  color: rgb(0, 166, 255);
+}
+.img-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
